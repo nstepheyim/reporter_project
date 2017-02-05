@@ -1,0 +1,710 @@
+{
+  "snapshots" : [
+    {
+      "battery" : 0.32,
+      "reportImpetus" : 4,
+      "responses" : [
+        {
+          "questionPrompt" : "Time?",
+          "uniqueIdentifier" : "CA49A781-17FF-4151-93DD-78BE386A2B63",
+          "numericResponse" : "9"
+        },
+        {
+          "questionPrompt" : "Dream?",
+          "uniqueIdentifier" : "07DC9D9C-DF66-4CF8-8727-C02B03CE7FFE",
+          "textResponses" : [
+            {
+              "uniqueIdentifier" : "C532406E-AAE9-48E2-AC51-0758B344256C",
+              "text" : "Dr"
+            }
+          ]
+        },
+        {
+          "questionPrompt" : "Feeling",
+          "uniqueIdentifier" : "0F9B0F7B-E275-46B5-ACED-F1B8A62B27BB",
+          "numericResponse" : "6.5"
+        }
+      ],
+      "date" : "2017-02-03T00:12:24-0500",
+      "sectionIdentifier" : "1-2017-2-3",
+      "uniqueIdentifier" : "0A12F146-0C23-411B-8ABB-A32D280FFD68",
+      "location" : {
+        "speed" : -1,
+        "placemark" : {
+          "subAdministrativeArea" : "Queens",
+          "subLocality" : "Queens",
+          "thoroughfare" : "50th Ave",
+          "administrativeArea" : "NY",
+          "uniqueIdentifier" : "92ADCECA-F550-4502-94DE-12320E3192D1",
+          "subThoroughfare" : "1-50",
+          "postalCode" : "11101",
+          "region" : "<+40.74331555,-73.95902435> radius 58.03",
+          "country" : "United States",
+          "locality" : "New York",
+          "name" : "1-50 50th Ave"
+        },
+        "timestamp" : "2017-02-03T00:12:25-0500",
+        "longitude" : -73.95903047805747,
+        "latitude" : 40.74340732699902,
+        "verticalAccuracy" : 10,
+        "uniqueIdentifier" : "AF2821BB-0ED7-43DC-9C08-FC1D509F9510",
+        "course" : 0,
+        "altitude" : 6.451096534729004,
+        "horizontalAccuracy" : 65
+      },
+      "background" : 0,
+      "draft" : 0,
+      "steps" : 1180,
+      "weather" : {
+        "relativeHumidity" : "43%",
+        "visibilityKM" : 16.1,
+        "tempC" : 1.1,
+        "uniqueIdentifier" : "2154D104-D1FB-43A1-94C1-8CC3F4A53FD9",
+        "precipTodayIn" : 0,
+        "windKPH" : 25.7,
+        "windDegrees" : 313,
+        "latitude" : 40.734779,
+        "stationID" : "KNYNEWYO655",
+        "visibilityMi" : 10,
+        "pressureIn" : 30.19,
+        "pressureMb" : 1022,
+        "feelslikeF" : 24,
+        "longitude" : -73.943336,
+        "feelslikeC" : -5,
+        "tempF" : 34,
+        "precipTodayMetric" : 0,
+        "windGustKPH" : 30.6,
+        "windDirection" : "NW",
+        "dewpointC" : -11,
+        "uv" : 0,
+        "weather" : "Clear",
+        "windGustMPH" : 19,
+        "windMPH" : 16
+      },
+      "connection" : 1,
+      "audio" : {
+        "avg" : -65.24553,
+        "peak" : -52.03134,
+        "uniqueIdentifier" : "A5554BC7-E605-49B8-BDC9-2EE9B20269FA"
+      },
+      "altitude" : {
+        "floorsDescended" : 1,
+        "pressure" : 101.8782272338867,
+        "gpsAltitudeFromLocation" : 0.67,
+        "floorsAscended" : 1,
+        "uniqueIdentifier" : "FB18E58F-1490-47A5-97E6-B26ACDC0C97C",
+        "adjustedPressure" : 101.8867322583921,
+        "gpsRawAltitude" : 6.451096534729004
+      }
+    },
+    {
+      "battery" : 0.32,
+      "reportImpetus" : 3,
+      "responses" : [
+        {
+          "questionPrompt" : "Ate noodles?",
+          "uniqueIdentifier" : "E0C53FE1-06A3-4B01-AFBB-D7579EABCBB4",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "tokens" : [
+            {
+              "uniqueIdentifier" : "77A3C03F-6757-4A08-88D7-EAB3A4E80F9D",
+              "text" : "Adidas maroon"
+            }
+          ],
+          "questionPrompt" : "What shoes did you wear?",
+          "uniqueIdentifier" : "4E43ACD1-512E-4388-99AB-64B1F0014BD0"
+        },
+        {
+          "questionPrompt" : "Talked to bro?",
+          "uniqueIdentifier" : "3406693B-15B9-4031-951C-F8A656BB5993",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "questionPrompt" : "Feeling",
+          "uniqueIdentifier" : "0F9B0F7B-E275-46B5-ACED-F1B8A62B27BB",
+          "numericResponse" : "6.5"
+        },
+        {
+          "tokens" : [
+            {
+              "uniqueIdentifier" : "5988B7EF-A9E1-4D7B-B2A6-4140A9DF0D25",
+              "text" : "sunny"
+            },
+            {
+              "uniqueIdentifier" : "1461E6EB-F389-4649-A21B-0C6AE4A8B570",
+              "text" : "Julie Ae Kim"
+            },
+            {
+              "uniqueIdentifier" : "15C35D64-6402-46C3-9E41-88F0D2FC83C0",
+              "text" : "sam seid"
+            },
+            {
+              "uniqueIdentifier" : "927AFDE7-7AE7-4DE1-A67C-530B73920AF9",
+              "text" : "furay"
+            },
+            {
+              "uniqueIdentifier" : "931F0615-167F-4FEB-B2E7-6BA1556F5EA4",
+              "text" : "Chan"
+            }
+          ],
+          "questionPrompt" : "Who are you with?",
+          "uniqueIdentifier" : "2CD66276-FE9C-4080-B8D0-FD5EE1283DB3"
+        },
+        {
+          "questionPrompt" : "Played guitar?",
+          "uniqueIdentifier" : "112CB604-FFCD-42C5-A8CB-394739EBCA5E",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "What music did you listen to today?",
+          "uniqueIdentifier" : "972E0DAA-ED7F-4A32-94BC-1675BB2F8A6B",
+          "textResponses" : [
+            {
+              "uniqueIdentifier" : "2525DB94-4B9F-4D56-8155-D3A1D8C0B43F",
+              "text" : "Mixed"
+            }
+          ]
+        },
+        {
+          "tokens" : [
+            {
+              "uniqueIdentifier" : "2EB70737-2D1B-403D-BE01-22C9946F1210",
+              "text" : "None"
+            }
+          ],
+          "questionPrompt" : "Shirt?",
+          "uniqueIdentifier" : "045AD9C7-07BB-4D98-B24E-1832E624F8B1"
+        },
+        {
+          "questionPrompt" : "Exercised?",
+          "uniqueIdentifier" : "BD90DE76-B957-48CC-93AD-0E55C04C2492",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "tokens" : [
+            {
+              "uniqueIdentifier" : "CE6A2CCE-9B4B-4EB5-82EC-19930E6EA63C",
+              "text" : "Online"
+            },
+            {
+              "uniqueIdentifier" : "6C86D04B-3C85-4E3F-BF3E-941F87ACA205",
+              "text" : "Podcast"
+            }
+          ],
+          "questionPrompt" : "Book?",
+          "uniqueIdentifier" : "DEFDF927-C52D-4898-8765-CA4F4D2E4473"
+        },
+        {
+          "tokens" : [
+            {
+              "uniqueIdentifier" : "FDA27125-EA6D-4C0E-B193-4184283FFC86",
+              "text" : "casio grey face"
+            }
+          ],
+          "questionPrompt" : "Watch?",
+          "uniqueIdentifier" : "4A7C51FF-723B-4336-B811-59B9567ADBDE"
+        },
+        {
+          "questionPrompt" : "Ate out?",
+          "uniqueIdentifier" : "E66AAD72-1FD0-4127-8D32-C0E8AC51C609",
+          "answeredOptions" : [
+            "No"
+          ]
+        },
+        {
+          "questionPrompt" : "Tv?",
+          "uniqueIdentifier" : "6E204556-B202-4A33-9D34-0584943D64E1",
+          "answeredOptions" : [
+            "Yes"
+          ]
+        },
+        {
+          "tokens" : [
+            {
+              "uniqueIdentifier" : "455E42D0-0C42-44CD-8F75-3B347E6CA6E7",
+              "text" : "Y"
+            }
+          ],
+          "questionPrompt" : "Cooked?",
+          "uniqueIdentifier" : "815AC337-E981-4CCD-B43C-C58289B54180"
+        },
+        {
+          "tokens" : [
+            {
+              "uniqueIdentifier" : "AAF8B8F0-27FA-42C9-9271-09717336F399",
+              "text" : "tea"
+            },
+            {
+              "uniqueIdentifier" : "6660FF39-232A-445E-879B-BDC17B454AF9",
+              "text" : "blue ridge"
+            },
+            {
+              "uniqueIdentifier" : "DFBBEA1D-82B2-484A-A849-16D7D33211B5",
+              "text" : "Wfh"
+            },
+            {
+              "uniqueIdentifier" : "E4A9140A-042A-4211-B432-A431F8CC5A13",
+              "text" : "turnip cake"
+            },
+            {
+              "uniqueIdentifier" : "563C18FF-D34B-44E8-A109-003290D3287A",
+              "text" : "Bt"
+            },
+            {
+              "uniqueIdentifier" : "9FBA0E93-4E6D-4594-BF9D-02A857B4B84C",
+              "text" : "journal"
+            },
+            {
+              "uniqueIdentifier" : "A62B0F75-B182-4398-A513-AF53385A5DDA",
+              "text" : "body sore"
+            },
+            {
+              "uniqueIdentifier" : "C262C2F5-5666-45B7-A298-02F2AF86F731",
+              "text" : "chan live together"
+            }
+          ],
+          "questionPrompt" : "What are you doing?",
+          "uniqueIdentifier" : "57C5DEBB-4BF0-4B8D-A94A-2F45589EF59D"
+        },
+        {
+          "tokens" : [
+            {
+              "uniqueIdentifier" : "D973E0B7-5B0D-4337-8755-71BE754735A0",
+              "text" : "No"
+            }
+          ],
+          "questionPrompt" : "Cry?",
+          "uniqueIdentifier" : "B3F94F9B-4DE5-48C9-814B-20ECC5ED0B31"
+        },
+        {
+          "questionPrompt" : "Hugs?",
+          "uniqueIdentifier" : "AE376807-4607-4850-85DC-AC99A3A4E0EC",
+          "numericResponse" : "2"
+        },
+        {
+          "tokens" : [
+            {
+              "uniqueIdentifier" : "96C209D3-7A3E-4E78-BD1A-679BCCEBB903",
+              "text" : "Gap old red tshirt"
+            },
+            {
+              "uniqueIdentifier" : "0B218204-C8F6-4F7B-9FE3-C1C947B39673",
+              "text" : "Vs pink red hoodie"
+            },
+            {
+              "uniqueIdentifier" : "85EDDB73-89B8-4695-842B-822F4B8EDC7E",
+              "text" : "uniqlo moma tshirt"
+            }
+          ],
+          "questionPrompt" : "Top",
+          "uniqueIdentifier" : "588EBB1F-943B-47AE-B4E2-4F952F447588"
+        },
+        {
+          "questionPrompt" : "What did you learn today?",
+          "uniqueIdentifier" : "526EC187-E667-4998-A668-5305D74B642B",
+          "textResponses" : [
+            {
+              "uniqueIdentifier" : "4C489F9C-A373-447E-9195-64B13EADE668",
+              "text" : "farted out loud"
+            }
+          ]
+        },
+        {
+          "tokens" : [
+            {
+              "uniqueIdentifier" : "1723ED52-48B4-4DAF-8E23-65E5AB324851",
+              "text" : "2"
+            }
+          ],
+          "questionPrompt" : "Commuting",
+          "uniqueIdentifier" : "C91E838B-AB20-428B-B2D8-10B660E3D644"
+        },
+        {
+          "tokens" : [
+            {
+              "uniqueIdentifier" : "4F6D84BF-3C20-4E01-AC9C-42539B3E9899",
+              "text" : "Pink grey sweatpants"
+            },
+            {
+              "uniqueIdentifier" : "9B608206-32E5-40FB-9D70-F717DDAD49B3",
+              "text" : "blue knit pants"
+            }
+          ],
+          "questionPrompt" : "Pants",
+          "uniqueIdentifier" : "CDBA6594-B25E-4C78-9119-6B7817D2718A"
+        }
+      ],
+      "date" : "2017-02-03T00:12:45-0500",
+      "sectionIdentifier" : "1-2017-2-3",
+      "uniqueIdentifier" : "B1EEC051-1DBA-4E89-AF24-B5678C111C8D",
+      "location" : {
+        "speed" : -1,
+        "placemark" : {
+          "subAdministrativeArea" : "Queens",
+          "subLocality" : "Queens",
+          "thoroughfare" : "50th Ave",
+          "administrativeArea" : "NY",
+          "uniqueIdentifier" : "CE01F8DC-016B-42C2-8003-69D75613950F",
+          "subThoroughfare" : "1-50",
+          "postalCode" : "11101",
+          "region" : "<+40.74331555,-73.95902435> radius 58.03",
+          "country" : "United States",
+          "locality" : "New York",
+          "name" : "1-50 50th Ave"
+        },
+        "timestamp" : "2017-02-03T00:12:46-0500",
+        "longitude" : -73.95861519974832,
+        "latitude" : 40.74346034246464,
+        "verticalAccuracy" : 10,
+        "uniqueIdentifier" : "F8ED8209-E657-40A1-844F-9E9F0D08424A",
+        "course" : 0,
+        "altitude" : 7.836288452148438,
+        "horizontalAccuracy" : 65
+      },
+      "background" : 0,
+      "draft" : 0,
+      "steps" : 0,
+      "weather" : {
+        "relativeHumidity" : "43%",
+        "visibilityKM" : 16.1,
+        "tempC" : 1.1,
+        "uniqueIdentifier" : "EE9BE5CA-CC3C-43F3-A80A-85A4C91B9140",
+        "precipTodayIn" : 0,
+        "windKPH" : 25.7,
+        "windDegrees" : 313,
+        "latitude" : 40.734779,
+        "stationID" : "KNYNEWYO655",
+        "visibilityMi" : 10,
+        "pressureIn" : 30.19,
+        "pressureMb" : 1022,
+        "feelslikeF" : 24,
+        "longitude" : -73.943336,
+        "feelslikeC" : -5,
+        "tempF" : 34,
+        "precipTodayMetric" : 0,
+        "windGustKPH" : 30.6,
+        "windDirection" : "NW",
+        "dewpointC" : -11,
+        "uv" : 0,
+        "weather" : "Clear",
+        "windGustMPH" : 19,
+        "windMPH" : 16
+      },
+      "connection" : 1,
+      "audio" : {
+        "avg" : -65.82108,
+        "peak" : -55.94442,
+        "uniqueIdentifier" : "6B635846-FAA1-4731-B29F-FB36A2E6C0B4"
+      },
+      "altitude" : {
+        "floorsDescended" : 0,
+        "pressure" : 101.8731994628906,
+        "gpsAltitudeFromLocation" : 0.91,
+        "floorsAscended" : 0,
+        "uniqueIdentifier" : "43849BC6-A05C-4785-9921-85E692188F16",
+        "adjustedPressure" : 101.8847506331569,
+        "gpsRawAltitude" : 7.836288452148438
+      }
+    }
+  ],
+  "questions" : [
+    {
+      "prompt" : "Ate noodles?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 4,
+          "uniqueIdentifier" : "459D30C7-A370-4460-A95C-1AF05859BCF3"
+        }
+      ],
+      "questionType" : 2,
+      "uniqueIdentifier" : "C9C947E6-9CA2-4355-935D-97A52F0D5DBE"
+    },
+    {
+      "prompt" : "What music did you listen to today?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 2,
+          "uniqueIdentifier" : "E971AEE1-10B1-4BD6-9338-2D28C9EC1F37"
+        }
+      ],
+      "questionType" : 6,
+      "uniqueIdentifier" : "E8F6A9CD-D88E-41AF-B491-668E3C421E12"
+    },
+    {
+      "prompt" : "What did you learn today?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 2,
+          "uniqueIdentifier" : "A23AED08-FADA-4A71-BD6B-F3F5C6D3E1D3"
+        }
+      ],
+      "questionType" : 6,
+      "uniqueIdentifier" : "default-question-7"
+    },
+    {
+      "prompt" : "Where are you?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 1,
+          "uniqueIdentifier" : "FAFA0383-C6D8-4793-8603-8EBA0A1F043D"
+        }
+      ],
+      "questionType" : 3,
+      "uniqueIdentifier" : "default-question-4"
+    },
+    {
+      "prompt" : "Who are you with?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 1,
+          "uniqueIdentifier" : "1AD18900-4F3F-4012-A287-D458AD925AE9"
+        }
+      ],
+      "questionType" : 4,
+      "uniqueIdentifier" : "default-question-5"
+    },
+    {
+      "prompt" : "What are you doing?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 1,
+          "uniqueIdentifier" : "374FC9B9-F6F4-43A1-A22A-DBDE44BC75F5"
+        }
+      ],
+      "questionType" : 0,
+      "allowMultipleSelection" : 1,
+      "uniqueIdentifier" : "default-question-3"
+    },
+    {
+      "prompt" : "Interesting thoughts?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 2,
+          "uniqueIdentifier" : "FF1BFBDD-23AB-454E-827B-9832848AE2AE"
+        }
+      ],
+      "questionType" : 6,
+      "uniqueIdentifier" : "61838D9B-6F1D-407E-8551-8CAC29F24C38"
+    },
+    {
+      "prompt" : "Exercised?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 4,
+          "uniqueIdentifier" : "D840536B-59E8-4918-B599-2C367669F400"
+        }
+      ],
+      "questionType" : 2,
+      "uniqueIdentifier" : "83AC4183-C411-4534-B39C-7D821FB93109"
+    },
+    {
+      "prompt" : "What shoes did you wear?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 1,
+          "uniqueIdentifier" : "4ECD4376-0E92-434B-AA3E-F30278FAE639"
+        }
+      ],
+      "questionType" : 0,
+      "uniqueIdentifier" : "E16DD2BF-28BF-4769-B39C-3425E47C4D3C"
+    },
+    {
+      "prompt" : "Wore button up shirt?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 4,
+          "uniqueIdentifier" : "F9186B63-E4A2-4059-B5C8-C59C2E9FE39D"
+        }
+      ],
+      "questionType" : 1,
+      "allowMultipleSelection" : 1,
+      "uniqueIdentifier" : "3FD6A5A3-9FF3-43DC-9ACF-1A065F020D92"
+    },
+    {
+      "prompt" : "Dream?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 2,
+          "uniqueIdentifier" : "3AD9C6D0-B5C1-48A8-B49C-AF587BA35AF1"
+        }
+      ],
+      "questionType" : 6,
+      "uniqueIdentifier" : "9F106810-7182-4DE9-8821-816AD8FB4D87"
+    },
+    {
+      "prompt" : "Played guitar?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 4,
+          "uniqueIdentifier" : "495EDA3F-C418-4C66-9C7B-A25870C77E00"
+        }
+      ],
+      "questionType" : 2,
+      "uniqueIdentifier" : "F1133B74-170A-4FF4-A924-EB712E012A99"
+    },
+    {
+      "prompt" : "Ate out?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 4,
+          "uniqueIdentifier" : "4E88CDE8-4054-4EFA-A899-66CBB4AAA37A"
+        }
+      ],
+      "questionType" : 2,
+      "uniqueIdentifier" : "77E5D40D-0637-48BA-9A7E-541CF93915AF"
+    },
+    {
+      "prompt" : "Hugs?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 3,
+          "uniqueIdentifier" : "214B97C3-6085-4C42-8404-8B55D19A2C0A"
+        }
+      ],
+      "questionType" : 5,
+      "uniqueIdentifier" : "51DC020D-FA6B-4E07-A140-C1D705A16FDE"
+    },
+    {
+      "prompt" : "Feeling",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 3,
+          "uniqueIdentifier" : "2DB4AA75-F339-4874-B580-189C6D254996"
+        }
+      ],
+      "questionType" : 5,
+      "uniqueIdentifier" : "836F8309-5ACE-4DB3-BB52-4A9C6FA7582F"
+    },
+    {
+      "prompt" : "Shirt?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 1,
+          "uniqueIdentifier" : "DD1E7B76-89F2-4D7A-8A9B-C67B75243FB2"
+        }
+      ],
+      "questionType" : 0,
+      "uniqueIdentifier" : "698F4348-F84F-48C8-903B-BE8584D61C24"
+    },
+    {
+      "prompt" : "Talked to bro?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 4,
+          "uniqueIdentifier" : "919BEEDA-1DB6-4A16-B4C9-251C81C3AABC"
+        }
+      ],
+      "questionType" : 2,
+      "uniqueIdentifier" : "4198BC94-4BEB-43F4-9650-86387A0D8726"
+    },
+    {
+      "prompt" : "Time?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 3,
+          "uniqueIdentifier" : "C8C2583B-F83D-4BEF-B2E0-B2958E4B223B"
+        }
+      ],
+      "questionType" : 5,
+      "uniqueIdentifier" : "DAA4ABB0-500D-4908-979B-3B8234D9D638"
+    },
+    {
+      "prompt" : "Tv?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 4,
+          "uniqueIdentifier" : "7AE8570E-9C20-40C6-9A5C-8DAB6BEB6827"
+        }
+      ],
+      "questionType" : 2,
+      "uniqueIdentifier" : "0804DADF-23CF-4678-A71A-E4142D541EBE"
+    },
+    {
+      "prompt" : "Cry?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 1,
+          "uniqueIdentifier" : "670D94EE-ADFB-49CC-8E18-A0AAAC6C92E9"
+        }
+      ],
+      "questionType" : 0,
+      "uniqueIdentifier" : "0708FE22-0CD9-4F74-ACFD-AC786E4578B6"
+    },
+    {
+      "prompt" : "Cooked?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 1,
+          "uniqueIdentifier" : "42657DC0-3F4D-4689-B3C4-02063F1D3182"
+        }
+      ],
+      "questionType" : 0,
+      "uniqueIdentifier" : "BD9D854B-0F25-47DD-AAB2-122C07785021"
+    },
+    {
+      "prompt" : "Book?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 1,
+          "uniqueIdentifier" : "AF717B8C-289D-48EA-A0A5-F00FD1BBCB92"
+        }
+      ],
+      "questionType" : 0,
+      "uniqueIdentifier" : "6DA699C3-8412-41CE-B578-87576CDDEACA"
+    },
+    {
+      "prompt" : "Commuting",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 1,
+          "uniqueIdentifier" : "C50C6B17-AC25-4995-80BE-AFFED0553FC5"
+        }
+      ],
+      "questionType" : 0,
+      "uniqueIdentifier" : "3F881FA9-1207-4EEC-8E95-8E2B252D699F"
+    },
+    {
+      "prompt" : "Top",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 1,
+          "uniqueIdentifier" : "30E32E66-0D9F-454A-8376-D274412AA13A"
+        }
+      ],
+      "questionType" : 0,
+      "uniqueIdentifier" : "62947362-F42E-41A0-94BB-5879846B1A7D"
+    },
+    {
+      "prompt" : "Pants",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 1,
+          "uniqueIdentifier" : "45698301-03E9-4F47-85DC-B1EF398F93D5"
+        }
+      ],
+      "questionType" : 0,
+      "uniqueIdentifier" : "A01831C3-E917-4893-9660-7BD865AE23F1"
+    },
+    {
+      "prompt" : "Watch?",
+      "selectedVisualizations" : [
+        {
+          "typeId" : 1,
+          "uniqueIdentifier" : "D08FD8B4-C3EF-4343-82DE-F6CC80EBB055"
+        }
+      ],
+      "questionType" : 0,
+      "uniqueIdentifier" : "74D2590F-318B-42B8-8C43-78C0EDA6DDF8"
+    }
+  ]
+}

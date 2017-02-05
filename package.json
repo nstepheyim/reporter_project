@@ -1,0 +1,54 @@
+{
+  "name": "stephs-life",
+  "version": "1.0.0",
+  "description": "documents the mundane things of steph's life",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo . -d --serve bundle.js --live",
+    "build": "browserify . -o bundle.js -g uglifyify",
+    "dist": "mkdir -p dist && bash -c 'cp *.{js,html,css} dist'",
+    "push": "gh-pages -d dist",
+    "deploy": "npm run build && npm run dist && npm run push"
+  },
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            "es2040"
+          ]
+        }
+      ],
+      "node-csvify"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nstepheyim/stephs-life"
+  },
+  "author": "nstepheyim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nstepheyim/stephs-life/issues"
+  },
+  "homepage": "https://github.com/nstepheyim/stephs-life",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "lodash.flatten": "^4.4.0",
+    "lodash.groupby": "^4.6.0",
+    "lodash.map": "^4.6.0",
+    "lodash.range": "^3.2.0",
+    "lodash.uniq": "^4.5.0",
+    "moment": "^2.17.1",
+    "node-csvify": "0.0.6"
+  },
+  "devDependencies": {
+    "babel-preset-es2040": "^1.1.1",
+    "babelify": "^7.3.0",
+    "browserify": "^13.3.0",
+    "budo": "^9.4.1",
+    "gh-pages": "^0.12.0",
+    "uglifyify": "^3.0.4"
+  }
+}
